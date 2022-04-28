@@ -86,6 +86,6 @@ Decentralized Finance
 Cross browser/Device compatibility
 Design
 Firebase
-Analytics
+Antilitcs/Antilytics/Antilyratix 0Viewer
 PUblic Relation Release management
 Instant App/App Clip
